@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Input component Should render input 1`] = `
+<div
+  class="inputWrapper"
+>
+  <i
+    class="fas fa-search"
+  />
+  <input
+    class="input"
+    placeholder="Click to search"
+    value=""
+  />
+</div>
+`;
+
+exports[`Input component defaultProps value 1`] = `
+<div
+  class="inputWrapper"
+>
+  <i
+    class="fas fa-search"
+  />
+  <input
+    class="input"
+    placeholder="Click to search"
+    value="Test"
+  />
+</div>
+`;
