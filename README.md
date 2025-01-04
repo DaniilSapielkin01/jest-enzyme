@@ -1,0 +1,1 @@
+Simple showcasing testing with JEST and Enzyme. The repository includes examples of unit and integration tests for React components, covering key functionalities such as rendering, event handling, and state management. 
